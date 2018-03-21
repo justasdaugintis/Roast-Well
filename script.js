@@ -1,1 +1,1 @@
-document.querySelector(".test").style.display="none"
+$("#test2").text("Lol")
