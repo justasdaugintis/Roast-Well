@@ -1,5 +1,4 @@
 
-
 .frontPage {
 display: table;
     background:url(img/FrontPAge.jpeg) no-repeat;
@@ -10,4 +9,16 @@ padding: 408px;
 color: black;
 font-size: 50px;
 
+}
+
+.nav1{
+ background-color: transparent;
+ opacity: 0.5;
+ border: 50px 5px 0px 5px;
+
+}
+
+.burg1{
+color: white;
+font-size: 4rem;
 }
