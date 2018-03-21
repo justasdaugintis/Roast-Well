@@ -1,0 +1,1 @@
+document.querySelector(".test").style.display="none"
