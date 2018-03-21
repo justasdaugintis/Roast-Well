@@ -1,19 +1,18 @@
-<<<<<<< HEAD
-=======
 
 
->>>>>>> 7d234dc63a1e2875c9d202f1ac1f3a408b3ecc63
 .frontPage {
 display: table;
 position: relative;
-    background:url(img/FrontPage.jpeg) no-repeat;
-    background-size: cover;
-<<<<<<< HEAD
+
+
     
 /*Background-size: cover;*/
 width: 100%;
 height: 100%;
-
+background-image: url(img/FrontPage.jpeg);
+  background-size: cover;
+  background-position: center;
+  filter: hue-rotate(180deg) saturate(2);
 
 }
 
@@ -50,12 +49,7 @@ color: white;
     height: 4.375rem;
     color: white;
     font-size: 2.5rem;
-=======
-width: 100%;
-height: auto;
-padding: 408px;
-color: black;
-font-size: 50px;
->>>>>>> 7d234dc63a1e2875c9d202f1ac1f3a408b3ecc63
+
+
 
 }
